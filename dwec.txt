@@ -1,0 +1,18 @@
+PROBLEMAS
+20,22,25,26,27,11,12,14,18,19
+
+JS (w3schools)
+arrow function
+hoising
+data types
+string methods/number methods
+template literal
+breaks
+conversiones 
+typeof
+
+parseint
+truly/falsy
+
+
+adivina numeor/factorial/DNI
